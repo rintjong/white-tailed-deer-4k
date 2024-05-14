@@ -1,0 +1,313 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "180719014950161_180719394950123xx",
+      "main_ads_intertitial":"180719014950161_180719474950115xx",
+      "main_ads_rewards":"null",
+      "main_ads_natives":"180719014950161_180719544950108",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"null",
+      "backup_ads_natives":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+        		{
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Super HD 4K Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+	       {
+			"id": 4,
+			"title": "US Navy Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		}
+
+  ],
+
+  "Categories": [
+    
+    {
+      "id": 1,
+      "name_category": "Deer",
+      "image": "https://i.pinimg.com/736x/21/65/52/21655267f753500250302af45e7e56e9.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/a7/e4/dd/a7e4ddb609bd841a71834c85a0438090.jpg","lock":false
+    },
+    {
+      "id": 2,
+      "name_category": "Deer",
+      "title": "Deer",
+      "image": "https://i.pinimg.com/564x/21/65/52/21655267f753500250302af45e7e56e9.jpg","lock":false
+    },
+    {
+      "id":3,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/41/13/bb/4113bb793ffa50c5b6b3952e62d9ae79.jpg","lock":false
+    },
+    {
+      "id":4,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/17/03/9d/17039d69b056effa31da835d971f70de.jpg","lock":false
+    },
+    {
+      "id":5,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/82/48/b8/8248b8ffd5e13d68511e38ed4cad87d3.jpg","lock":false
+    },
+    {
+      "id":6,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/b3/43/fe/b343fe878ff37f7c3a4577f8ceabb30c.jpg","lock":false
+    },
+	  {
+      "id":7,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/08/bd/90/08bd9073a442107a363b255f4a4fe254.jpg","lock":false
+    },
+    {
+      "id": 8,
+      "name_category": "Deer",
+      "title": "Deer",
+      "image": "https://i.pinimg.com/564x/17/87/5f/17875f2c0f4c8bbbe7f50331beb6cca8.jpg","lock":false
+    },
+    {
+      "id":9,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/31/59/e8/3159e818fc227a605c27aefae7cea541.jpg","lock":false
+    },
+    {
+      "id":10,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/64/e3/e1/64e3e1c854a6985f6bcce6683a216f56.jpg","lock":false
+    }
+  ,
+    {
+      "id":11,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/ed/59/94/ed5994d99fe76299e1a147ae05cf03aa.jpg","lock":false
+    },
+    {
+      "id":12,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/fb/b8/e5/fbb8e56d2cbcb31fedf6c568ed7c85e7.jpg","lock":false
+    },
+	  {
+      "id":13,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/73/2d/5f/732d5f227a1e20d6f2e500c5b3f2308e.jpg","lock":false
+    },
+    {
+      "id": 14,
+      "name_category": "Deer",
+      "title": "Deer",
+      "image": "https://i.pinimg.com/564x/d3/be/4d/d3be4d93f29c89bca846601fc04ccda1.jpg","lock":false
+    },
+    {
+      "id":15,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/11/22/6b/11226ba42198de9d0b39c396eaf25a35.jpg","lock":false
+    },
+    {
+      "id":16,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/b3/4a/70/b34a7031012a8d380196d9dff5b2aac6.jpg","lock":false
+    }
+  ,
+    {
+      "id":17,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/eb/bc/ac/ebbcaccbb6388b793a7bc449e33b0755.jpg","lock":false
+    },
+    {
+      "id":18,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/c2/d0/8d/c2d08d9cc072a13abc32c043b25a9815.jpg","lock":false
+    },
+	  {
+      "id":19,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/66/a6/51/66a651ddb2814508e6dbf83f47eabb5a.jpg","lock":false
+    },
+    {
+      "id": 20,
+      "name_category": "Deer",
+      "title": "Deer",
+      "image": "https://i.pinimg.com/564x/f1/99/74/f19974c8cf190a6df48ff5565b8cc389.jpg","lock":false
+    },
+    {
+      "id":21,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/18/61/66/18616621d164760b31b3b16d01731e09.jpg","lock":false
+    },
+    {
+      "id":22,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/22/c9/df/22c9dfbad461c5f782c213b70a4b1141.jpg","lock":false
+    }
+  ,
+    {
+      "id":23,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/a8/a2/4a/a8a24a40406676e9369055d9d1f8c2ae.jpg","lock":false
+    },
+    {
+      "id":24,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/9e/1e/a4/9e1ea4d85a231861bfee5ae6261e94e6.jpg","lock":false
+    },
+	  {
+      "id":25,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/a2/c4/3c/a2c43c13179dd3d88c388aae554b8572.jpg","lock":false
+    },
+    {
+      "id": 26,
+      "name_category": "Deer",
+      "title": "Deer",
+      "image": "https://i.pinimg.com/564x/9c/e0/8b/9ce08b0f9745066453f7f04bcc6d2a6d.jpg","lock":false
+    },
+    {
+      "id":27,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/e2/98/9a/e2989ab5d4a3cdfbe112fe34d08f7184.jpg","lock":false
+    },
+    {
+      "id":28,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/3b/a4/75/3ba475bde6dadd13008b92ec33d987f9.jpg","lock":false
+    }
+  ,
+    {
+      "id":29,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/fd/5b/16/fd5b16a0bd6fbbd5ac7109a9a5a43dae.jpg","lock":false
+    },
+    {
+      "id":30,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/c9/58/62/c95862f768a3e608250f40a0ad8785db.jpg","lock":false
+    },
+	  {
+      "id":31,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/db/e8/79/dbe879baea864af193de8ebcf1bc1eac.jpg","lock":false
+    },
+    {
+      "id": 32,
+      "name_category": "Deer",
+      "title": "Deer",
+      "image": "https://i.pinimg.com/564x/4e/ef/d3/4eefd3ba7454d9bb445893029a060f21.jpg","lock":false
+    },
+    {
+      "id":33,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/27/63/d1/2763d1e6bf95d023c024dfa0db0006d4.jpg","lock":false
+    },
+    {
+      "id":34,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/42/71/9f/42719f035553bf95c0562a84327c3b25.jpg","lock":false
+    }
+  ,
+    {
+      "id":35,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/96/d1/47/96d147751339109ef46e93682f98b565.jpg","lock":false
+    },
+    {
+      "id":36,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/f3/62/39/f36239d67eee47d96aa31ffb919edb8d.jpg","lock":false
+    },
+    
+    {
+      "id":37,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/51/0a/27/510a27c26c7ddc2823bdbd8c141f43d2.jpg","lock":false
+    },
+    {
+      "id":38,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/e7/4b/d4/e74bd42e076074b7457a9c003a9e758f.jpg","lock":false
+    },
+    {
+      "id":39,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/e5/9b/24/e59b24d841ded9e076a12c0396fbef8c.jpg","lock":false
+    },
+    {
+      "id":40,
+      "name_category": "Deer",
+      "title":"Deer",
+      "image":"https://i.pinimg.com/564x/b9/86/af/b986af43e5c15125bf83f256372345c3.jpg",
+	  "lock":false
+    }
+  ]
+}
